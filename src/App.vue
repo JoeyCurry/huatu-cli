@@ -30,7 +30,7 @@ export default {
     data() {
         return {
             menu,
-            systemName: 'xx系统'
+            systemName: 'systemName'
         }
     },
     computed: {
